@@ -1,5 +1,5 @@
 # kuliah
-Kuliah Skuy | Binus Online Learning
+Kuliah Skuy
 
 Catatan gw sendiri:
 - [C like Macros in Golang](https://groups.google.com/g/golang-nuts/c/Qlxs3V77nss)
