@@ -10,6 +10,8 @@ import (
 
 var (
 	StudentAttrs = []string{ "NIM", "Name", "Subject" }
+
+	// float64 { Weight }
 	ScoreAttrs   = map[string]float64 { 
 		"Present": 0.1,
 		"Task":    0.2,
@@ -17,6 +19,8 @@ var (
 		"Forum":   0.1, 
 		"Exam":    0.5,
 	}
+
+	// int{ From, To }
 	GradeAttrs   = map[string][2]int{
 		"A": [2]int{ 90, 100 },
 		"B": [2]int{ 80, 89 },
