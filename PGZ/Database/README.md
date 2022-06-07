@@ -17,3 +17,9 @@ Catatan:
 - Gunakan `?` untuk menerima input dari user dan membungkusnya dengan query disertai parameter sebagai salah satu pencegahan SQL Injection.
 - Gunakan `LastInsertId` untuk mendapatkan ID _AutoIncrement_ terakhir
 - [Prepare Statement](https://medium.com/pujanggateknologi/prepared-statement-di-go-927b1a8863ec)
+
+## Repository Pattern
+
+1. Move to `RepositoryPattern` directory
+2. Run `export GO111MODULE=on`
+3. Run `go run main.go`
