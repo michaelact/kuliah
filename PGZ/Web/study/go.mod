@@ -1,12 +1,6 @@
-module github.com/michaelact/kuliah
+module golang_web
 
 go 1.18
-
-require (
-	github.com/go-sql-driver/mysql v1.6.0
-	github.com/gocarina/gocsv v0.0.0-20220520193141-bb9bebb918c3
-	golang.org/x/exp v0.0.0-20220518171630-0b5c67f07fdf
-)
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
@@ -15,6 +9,6 @@ require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/rs/zerolog v1.27.0 // indirect
 	github.com/stretchr/testify v1.7.2 // indirect
-	golang.org/x/sys v0.0.0-20220520151302-bc2c85ada10a // indirect
+	golang.org/x/sys v0.0.0-20220608164250-635b8c9b7f68 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
