@@ -7,6 +7,7 @@
 #define MAX_FILENAME_LEN 127
 
 struct event {
+        int uid;
         int pid;
         int ppid;
         unsigned exit_code;
